@@ -1,6 +1,6 @@
 # Cryptocurrency_Charting_Tool
 
-Welcome to Cryptocurrency_Charting_Tool! This is asingle-page web app for viewing the historical price data for any cryptocurrency.
+Welcome to Cryptocurrency_Charting_Tool! This is a single-page web app for viewing the historical price data for any cryptocurrency.
 
 ![c1](https://user-images.githubusercontent.com/34432441/97341003-e00cf180-185a-11eb-9811-932823a268cd.png)
 
